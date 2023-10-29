@@ -1,3 +1,2 @@
 # optiver
-ciao come stai 
-no
+ciao come stai
